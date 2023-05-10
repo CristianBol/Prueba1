@@ -1,1 +1,4 @@
 /* Archivo para los estilos del sitio web */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
